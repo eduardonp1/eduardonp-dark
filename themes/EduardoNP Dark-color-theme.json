@@ -26,7 +26,11 @@
 		"statusBar.debuggingBackground": "#023864",
 		"debugToolBar.background": "#023864",
 		"editorGutter.background": "#000000",
-		"editorIndentGuide.background": "#504fad"
+		"editorIndentGuide.background": "#504fad",
+		"tab.hoverForeground": "#00e1ff",
+		"tab.inactiveBackground": "#131313",
+		"editorGroupHeader.tabsBackground": "#131313",
+		"editorGroupHeader.noTabsBackground": "#131313",
 	},
 	"tokenColors": [
 		{
