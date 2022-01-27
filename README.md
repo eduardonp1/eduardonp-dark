@@ -1,6 +1,12 @@
 # Tema para VS Code
-Tema "eduardonp-dark" Creado por Eduardo Nolasco Pérez
+![ThemeLogo](https://raw.githubusercontent.com/eduardonp1/vscode-theme-eduardonp-dark/master/icons/icon.png)
+
+Tema "eduardonp-dark" Creado por Eduardo Nolasco Pérez para un uso personal
+
+## SCREENSHOT
+
+![ScreenShot](https://raw.githubusercontent.com/eduardonp1/vscode-theme-eduardonp-dark/master/screenshots/capture1.png)
 
 ### Enlaces
-* [Página web](https://eduardonp.com)
-
+* [Página web personal](https://eduardonp.com)
+* [Twitter](https://www.twitter.com/lalonolasc)
