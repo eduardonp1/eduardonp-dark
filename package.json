@@ -3,6 +3,16 @@
     "displayName": "Eduardonp Dark",
     "description": "Tema obscuro de contraste alto",
     "version": "0.0.1",
+    "icon": "icons/icon.png",
+    "author": {
+        "name": "Eduardo Pérez",
+        "email": "mail@eduardonp.com",
+        "url": "https://eduardonp.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eduardonp1/vscode-theme-eduardonp-dark.git"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -17,5 +27,6 @@
                 "path": "./themes/EduardoNP Dark-color-theme.json"
             }
         ]
-    }
+    },
+    "publisher": "eduardo-np"
 }
